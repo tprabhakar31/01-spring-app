@@ -54,6 +54,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>01-spring-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
